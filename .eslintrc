@@ -12,7 +12,8 @@
 		"max-len":0,
 		"linebreak-style": 0,
 		"no-console": 0,
-		"consistent-return":0
+		"consistent-return":0,
+		"no-plusplus":0
 	},
 	"plugins":["html"]
 }
