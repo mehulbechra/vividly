@@ -1,0 +1,1 @@
+A node js application built using express and other modules. Allows users to get and retrive genres from the database.
